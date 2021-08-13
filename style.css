@@ -1,0 +1,30 @@
+.dropdown-toggle:hover {
+    border-top: 2px solid black !important;
+    /* background-color: black; */
+    /* color: white !important; */
+    text-decoration: bold !important;
+    /* color: black; */
+}
+
+body {
+    background-color: #F7F8FA !important;
+}
+
+.post {
+    background-image: url("./Images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh !important;
+    color: white;
+}
+
+.mywidth {
+    width: 99% !important;
+    height: 40vh !important;
+}
+
+
+/* 
+.post2 {
+    width: 80% !important;
+} */
